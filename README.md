@@ -7,4 +7,4 @@ use "git stash save" (to save the changes without commiting, for later use if ne
 use "git tag -D 'tag name'"
 #To remove them from the remote repo
 use "git push --delete origin 'tagname'"
-
+![My Logo](logo.png)
